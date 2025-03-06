@@ -56,32 +56,32 @@ Welcome to my GitHub profile! I'm a passionate Software Developer from Accra, Gh
 
 ## 🌱 About Me
 
-- 🔭 Currently working at **Humandev IP** as a Software Developer.
+- 🔭 Currently working at **Fluid Finance** as a Full Stack Engineer.
 - 🌍 Contributing to web and mobile applications that make an impact.
 - 🌱 I’m learning **Docker** and **GitHub Actions**.
 - 💡 Constantly improving my skills and staying up-to-date with industry trends.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joshua-ansah-b0a15a230/) | [Portfolio](http://joshua-ansah.vercel.app) | khalijonez777@gmail.com
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joshua-ansah-b0a15a230/) | [Portfolio](https://joshua-ansah.vercel.app) | khalijonez777@gmail.com
 
 ## 🛠️ Technologies & Tools
 
-- **Frontend:** JavaScript, TypeScript, React.js, Next.js, TailwindCSS, Material-UI, Bootstrap
+- **Frontend:** JavaScript, TypeScript, React.js, Next.js, Redux, TailwindCSS, Material-UI, Bootstrap
 - **Backend:** Node.js, Express.js, Nest.js
-- **Mobile Development:** Flutter, Dart
+- **Mobile Development:** Flutter, Dart, Bloc
 - **Databases:** MongoDB, PostgreSQL, Firebase
 - **Version Control:** Git, GitHub
 - **Other Skills:** Collaboration, Teamwork, Communication
 
 ## 🔥 Work Experience
 
-- **Software Developer** at Humandev IP | Oct 2024 - Present
+- **Full Stack Engineer** at Fluid Finance | Oct 2024 - Present
+  - Diagnosed and resolved bugs, improving the overall stability and performance of web applications.
+  - Built productivity features with saving 15+ hours/month for cross-functional teams
+
+- **Software Developer** at Seymo | Mar 2023 - Sep 2024
   - Collaborated on various stages of the software development lifecycle.
   - Developed user-friendly interfaces for web and mobile applications.
 
-- **Software Developer** at Humandev IP | Mar 2023 - Oct 2024
-  - Collaborated on various stages of the software development lifecycle.
-  - Developed user-friendly interfaces for web and mobile applications.
-
-- **Full Stack Developer** (Freelance) | Feb 2023 - Present
+- **Full Stack Developer** (Freelance) | Feb 2023 - Sep 2024
   - Developed the Tourizilla landing website.
   - Contributed to Green Ghana mobile app and other projects.
 
