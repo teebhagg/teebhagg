@@ -73,7 +73,11 @@ Welcome to my GitHub profile! I'm a passionate Software Developer from Accra, Gh
 
 ## 🔥 Work Experience
 
-- **Software Developer** at Humandev IP | Mar 2023 - Present
+- **Software Developer** at Humandev IP | Oct 2024 - Present
+  - Collaborated on various stages of the software development lifecycle.
+  - Developed user-friendly interfaces for web and mobile applications.
+
+- **Software Developer** at Humandev IP | Mar 2023 - Oct 2024
   - Collaborated on various stages of the software development lifecycle.
   - Developed user-friendly interfaces for web and mobile applications.
 
